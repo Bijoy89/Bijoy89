@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/bijoybhattacharjee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:bijoybhattacharjee1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
   <a href="https://github.com/Bijoy89">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -22,13 +20,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year **Computer Science Student** at **East Delta University**, Bangladesh
 - 📱 Building production-ready mobile apps with **Flutter & Dart**
 - 🤖 Currently working on **AI-integrated Flutter applications**
 - 🔥 Skilled in **Provider** and **GetX** state management
 - 🌱 Exploring **Firebase**, **REST APIs**, and **Clean Architecture**
 - 🎯 Actively seeking **Junior Flutter Developer / Software Engineer** roles
-- 📧 Reach me at **bijoybhattacharjee1234@gmail.com**
 
 ---
 
