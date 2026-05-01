@@ -17,15 +17,15 @@
 
 ---
 
-## 👨‍💻 About Me  
+##  About Me  
 
 I am a Software Developer specializing in building scalable, high-performance applications and robust API integrations. With a strong foundation in Object-Oriented Programming, I focus on writing clean, maintainable, and efficient code.
 
 I bring structured problem-solving and attention to detail to every project, aiming to deliver reliable and user-focused software solutions.
 
-- 🚀 **Currently:** Designing and developing software solutions with a focus on performance, scalability, and user experience  
-- 💪 **Core Strength:** Building production-ready applications with clean architecture, efficient state management, and backend integration  
-- 🎯 **Drive:** Transforming complex problems into simple, reliable, and user-centric solutions  
+-  **Currently:** Designing and developing software solutions with a focus on performance, scalability, and user experience  
+-  **Core Strength:** Building production-ready applications with clean architecture, efficient state management, and backend integration  
+-  **Drive:** Transforming complex problems into simple, reliable, and user-centric solutions  
 
 
 ---
@@ -72,8 +72,8 @@ I bring structured problem-solving and attention to detail to every project, aim
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijoy89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bijoy89&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bijoy89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Bijoy89&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -82,6 +82,4 @@ I bring structured problem-solving and attention to detail to every project, aim
 
 ---
 
-<p align="center">
-  <i>"Code is not just syntax — it's a solution waiting to happen."</i>
-</p>
+
