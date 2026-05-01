@@ -24,7 +24,6 @@
 - 🤖 Currently working on **AI-integrated Flutter applications**
 - 🔥 Skilled in **Provider** and **GetX** state management
 - 🌱 Exploring **Firebase**, **REST APIs**, and **Clean Architecture**
-- 🎯 Actively seeking **Junior Flutter Developer / Software Engineer** roles
 
 ---
 
